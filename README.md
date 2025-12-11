@@ -265,7 +265,7 @@ Let’s say the buyer asks:
 
 ### “What if this car had 20,000 fewer kilometers?”
 
-Your engine can simulate that.
+Engine can simulate that.
 This is a negotiation scenario.
 
 Or:
