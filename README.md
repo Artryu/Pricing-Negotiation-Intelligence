@@ -191,7 +191,7 @@ And that changes everything.
 
 ## **The Value Decomposition Insight, The Hidden Negotiation Forces**
 
-When you trained your Car-Value-Decoding-Engine,
+When trained Car-Value-Decoding-Engine,
 you discovered something important:
 
 A predicted price is actually the sum of competing forces:
@@ -206,18 +206,16 @@ A predicted price is actually the sum of competing forces:
 
 These forces are essentially **negotiators**.
 
-Your decomposition engine exposed what pricing researchers know:
+decomposition engine exposed what pricing researchers know:
 
 > Price is an equilibrium of negotiation forces.
 
-Your model wasn’t just predicting.
+model wasn’t just predicting.
 It was negotiating.
 
 ---
 
 ## **Introducing the Negotiation Simulation Engine (NSE)**
-
-*(This is the core idea your article introduces to the ML world.)*
 
 Instead of predicting price directly,
 a Negotiation Simulation Engine generates price by:
